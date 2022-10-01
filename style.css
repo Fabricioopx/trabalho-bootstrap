@@ -1,0 +1,71 @@
+body {
+    color: #FFF;
+    background-color: #383838;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    padding-top: 2.5em;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+}
+
+.carousel {
+    width: 50em;
+}
+.carrosel {
+    display: flex;
+    justify-content: center;
+}
+
+.botao-proximo {
+    margin-left: 6em;
+}
+.botao-anterior {
+    margin-right: 6em;
+}
+
+.tamanhos {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1em;
+}
+
+.formulario {
+    margin-left: 430px;
+    display: flex;
+    width: 1000px;
+    flex-direction: column;
+    padding-top: 130px;
+}
+
+h1,h2 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.imagem {
+    padding-top: 70px;
+}
+
+.cleve {
+    width: 800px;
+    padding-top: 200px;
+}
+
+.nota {
+    padding-top: 120px;
+}
+
+.lebron {
+    width: 800px;
+}
